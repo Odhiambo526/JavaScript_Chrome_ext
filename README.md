@@ -1,7 +1,7 @@
 # JavaScript_Chrome_ext:
 
   This is a program that can enhance your browser experience in chrome.
-  The way it works is that; you visit a website, you openup the extensions and then click on the Leeds Tracker (The chrome ext). It has a SAVE INPUT i.e a Url that you pass into the input field, or hit SAVE TAB e.i the extension heads over to the browser tab, grabs the url and saves it in a list.
+  The way it works is that; you visit a website, you open up the extensions and then click on the Leeds Tracker (The chrome ext). It has a SAVE INPUT i.e a Url that you pass into the input field, or hit SAVE TAB e.i the extension heads over to the browser tab, grabs the url and saves it in a list.
   The Data is persitent so you can close down the app or turn off the chrome and its actually still there. This is useful tool for sales representatives and it is actually deployable in the browsr so you can use it in Real world.
   
   
